@@ -1,9 +1,9 @@
-# ***PYTHON BİLET SATIŞ OTOMASYONU***
+# ***PYTHON BİLET SATIŞ OTOMASYONU EXE***
 
 <hr>
 <br><br>
 
-<b>-> Bu projede verilen filmler için bilet satış otomasyonu yapılmıştır!. </b>
+<b>-> Bu projede PYQT5 kütüphanesi ile  verilen filmler için bilet satış otomasyonu yapılmıştır!. </b>
 <br><br><hr>
 
 -> Bu proje PYTHON ile yapılmıştır..<br>
